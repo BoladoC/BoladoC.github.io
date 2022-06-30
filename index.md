@@ -2,14 +2,21 @@
 layout: default
 ---
 
+---
 **Cheat Sheet**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Bienvenido a mi página personal, está organizada para poder usarla como mi chuletario personal pero eres libre de coger todo lo que necesites y modificar mis códigos como más te convenga
 
+[Mi Github](./https://github.com/BoladoC) --> Es mi página principal por si no quieres tener que bucear entre toda la información.
+
+Muy Pronto tendré subidos todos mis exploit (Python en su mayoría) y mis WriteUp sobre las máquinas que hago en hackthebox.
+
+Si quieres contactar conmigo: `j.boladocampo@gmail.com
+---
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -121,3 +128,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+---
