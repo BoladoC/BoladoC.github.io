@@ -15,7 +15,7 @@ Entre mis proyectos acutuales se encuentran el desarrollo de un spyware para mov
 
 `https://github.com/swisskyrepo/PayloadsAllTheThings` Esta es para mi la biblia de todos los payload, de aquí saco la mayoría de la información que necesito para poder hacer los pentesting
 
-[Mi Github](./https://github.com/BoladoC/chuletario)
+[Mi Github](./chuletario)
 	
 Si quieres contactar conmigo: `j.boladocampo@gmail.com`
 ---
