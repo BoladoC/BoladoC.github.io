@@ -2,13 +2,15 @@
 layout: default
 ---
 
-** Help : HackTheBox **
+---
+**Help : HackTheBox**
 
 	Help es un CTF challenge en HackTheBox
 		
 	Task: Obtener la bandera de user.txt ( Penetración en el sistema ) & bandera de root.txt que se obtiene mediante el pivoting estando dentro del sistema.
-	
-	#Enumeración:
+---
+---	
+# Enumeración:
 	
 	nmap -sCV -oN nmap/initial 10.10.10.121 --> Vemos los puertos abiertos 
 	
@@ -36,3 +38,4 @@ layout: default
 	Nmap done: 1 IP address (1 host up) scanned in 21.91 seconds
 
 	```
+---
